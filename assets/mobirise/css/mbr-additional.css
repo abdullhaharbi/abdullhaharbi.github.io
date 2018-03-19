@@ -1764,7 +1764,7 @@ body {
 .cid-qLUsGY3ain {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/mbr-4-1620x1080.jpg");
 }
 .cid-qLUsGY3ain .card-box {
   padding: 0 2rem;
@@ -1811,7 +1811,7 @@ body {
 .cid-qLToc8KGQ3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/black-918x419.png");
 }
 .cid-qLToc8KGQ3 h3 {
   text-align: center;
@@ -1883,9 +1883,9 @@ body {
   text-align: center;
 }
 .cid-qLSUujZ0bv {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #232323;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #767676;
 }
 @media (max-width: 767px) {
   .cid-qLSUujZ0bv .content {

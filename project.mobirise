@@ -718,7 +718,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "هوا نظام يهتم في ادارة الخطط الاستراتجية وادارة المبادارت والفعاليات والاجتماعات وبإضافة الى ادارة الخطط التشغلية والتسوييقية واستخراج النتائج بصفحة  داش بورد واحدة&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://forms.gle/Hr1VTxHBNUd3Xof99\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">أطلب نسختك&nbsp;</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
@@ -735,7 +735,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "&nbsp;تقدر تنظم افكار وترابط اقتراحتك وتلزم نفسك بأداء مهامك للتصل الى هدفك&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://forms.gle/Hr1VTxHBNUd3Xof99\" data-toolbar=\"-mbrBtnMove\">أطلب نسختك&nbsp;</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
@@ -752,7 +752,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "الان صفحة دارش بورد واحدة تعرض كل اهدافك ومهام فريقك ونسبة الانجاز لكل خطة وتستخرج تقرير اداري يساهم في تحسين قراراتك&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://forms.gle/Hr1VTxHBNUd3Xof99\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">احصل على نسختك&nbsp;</a> "
               }
             ]
           },
